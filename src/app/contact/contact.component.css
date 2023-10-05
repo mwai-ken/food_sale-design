@@ -1,0 +1,25 @@
+.contact-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 77vh;
+    /* background-color: aqua; */
+    
+}
+.content-container{
+    width: 50vw;
+    height: 55vh;
+    padding: 19px 30px;
+    /* background-color: rgb(222, 222, 198,0.6); */
+background-color: white;
+}
+
+.content-container img{
+     width: 44px;
+     height: 44px;
+}
+.content-container img:hover{
+    width: 49px;
+    height: 49px;
+}
