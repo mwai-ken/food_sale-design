@@ -1,0 +1,13 @@
+.footer-container{
+    width: 100vw;
+    height: 10vh;
+    /* background-color: white; */
+    background-image: linear-gradient(10deg, white 0%, rgba(114, 105, 95, 0.5) );
+    color: black;
+    position: absolute;
+    bottom: 0%;
+}
+/* .footer-details{
+    position: absolute;
+    top: 23%;
+} */

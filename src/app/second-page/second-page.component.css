@@ -1,0 +1,25 @@
+.about-content{
+    display: flex;
+    flex-direction: column;
+    /* background-color: blue; */
+    height: 90vh;
+    align-items: center;
+    padding: 56px ;
+}
+.paragraphs{
+    background-color: rgb(234, 211, 211);
+    /* background-color: ; */
+    transition: .3s ease box-shadow; 
+       width: 50vw;
+       height: 67vh;
+       box-shadow: 0px 0px 18px 0 #0000002c;
+}
+.paragraphs p{
+    padding: 15px;
+    font-size: 22px;
+    /* background-color: white;
+    transition: .3s ease box-shadow;  */
+       /* width: 50vw; */
+      
+       /* box-shadow: 0px 0px 18px 0 #0000002c; */
+}
